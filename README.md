@@ -33,7 +33,7 @@ Recieved a positive response when confirming installation with (sudo systemctl s
 Specified search to only show nmap events.
 
 ## Visualizing Events with a Dashboard
-| Agent Install| Confirming Install | s |
+|Table 1|Table 2|Table 3|
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 |![Screenshot 2024-12-04 143412](https://github.com/user-attachments/assets/7dd84bfd-f7dc-4647-957b-32a78e94190a)|![Screenshot 2024-12-04 153144](https://github.com/user-attachments/assets/e11e61c8-86be-4f18-8421-d778749caad8)|![Screenshot 2024-12-04 165226](https://github.com/user-attachments/assets/02799d3d-f868-439a-80a4-48b527759340)
 
