@@ -21,4 +21,5 @@ The scope of this project was to create a home lab for Elastic Stack Security In
   ![Screenshot 2024-12-04 155838](https://github.com/user-attachments/assets/b1be033f-32aa-493a-b6d0-30038b758f8d)
   ![Screenshot 2024-12-04 155900](https://github.com/user-attachments/assets/cf3d27c0-4b3f-416e-a501-0df073431d76)
 </p>
+
 ![Screenshot 2024-12-04 155838](https://github.com/user-attachments/assets/b1be033f-32aa-493a-b6d0-30038b758f8d) ![Screenshot 2024-12-04 155900](https://github.com/user-attachments/assets/cf3d27c0-4b3f-416e-a501-0df073431d76)
