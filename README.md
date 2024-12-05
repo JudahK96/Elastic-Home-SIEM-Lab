@@ -53,6 +53,7 @@ Using the "Count" and "Timestamp" fields, I created a easy to read tabel that sh
 
 ## Detection Alerts w/Integrated Push Emails
 ![Screenshot 2024-12-04 165311](https://github.com/user-attachments/assets/24dc414a-cd7d-4ec7-aaef-f4a7ab679a6c)
+Currently no alerts as triggers have not been specified. Although, there are some preset rules it is more convenient to flesh out from scratch.
 ### Basic set up for scanning
 ![Screenshot 2024-12-04 165643](https://github.com/user-attachments/assets/62cc810b-4846-4539-a0ca-c3d6b973fc04)
 Creating new rules and defining those rules with a custom query. I set the conditions to detect nmap scan evenrts and also sudo elevated privilege events. I then set the action when triggered to send a push notification via email.
@@ -65,10 +66,4 @@ Creating new rules and defining those rules with a custom query. I set the condi
 
 ### Alert Events for nmaps and sudo cmds
 ![Screenshot 2024-12-04 184321](https://github.com/user-attachments/assets/583cf8a3-9681-4791-ac36-e035ad84ed85)
-
-
-
-
-
-
-
+The sudo alert is now being triggered, pushing notifications every new instance within a set range of time.
