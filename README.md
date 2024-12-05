@@ -67,3 +67,9 @@ Creating new rules and defining those rules with a custom query. I set the condi
 ### Alert Events for nmaps and sudo cmds
 ![Screenshot 2024-12-04 184321](https://github.com/user-attachments/assets/583cf8a3-9681-4791-ac36-e035ad84ed85)
 The sudo alert is now being triggered, pushing notifications every new instance within a set range of time.
+
+<br/>
+<br/>
+
+## Conclusion
+This was a great lab setting up a home lab using Elastic SIEM and a Kali VM. Learing to forward data from the Kali VM to the SIEM using Elastic agent, generated security events on the Kali VM using Nmap and Sudo, and queried and analyzed the logs in the SIEM using the Elastic web interface. Also working with visualization tools to created a dashboard for security events and then creating an alert to detect security events.
