@@ -58,7 +58,7 @@ Using the "Count" and "Timestamp" fields, I created a easy to read tabel that sh
 | Sudo CMD Telemetry| Log Event for Sudo CMD| Push Email Notification|
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 |![Screenshot 2024-12-04 184054](https://github.com/user-attachments/assets/90f93a36-bd37-4d1b-922d-ef62343d1fca)|![Screenshot 2024-12-04 184235](https://github.com/user-attachments/assets/bb62f631-f190-4486-8543-8b3e1c5c22e7)|![Screenshot 2024-12-04 165643](https://github.com/user-attachments/assets/cf314aa1-6258-46dc-a4dd-1182e8796b95)|
-
+### Alert Events for nmaps and sudo cmds
 ![Screenshot 2024-12-04 184321](https://github.com/user-attachments/assets/583cf8a3-9681-4791-ac36-e035ad84ed85)
 
 
