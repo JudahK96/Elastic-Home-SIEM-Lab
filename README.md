@@ -46,15 +46,18 @@ Specified search to only show nmap events.
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 |![Screenshot 2024-12-04 143412](https://github.com/user-attachments/assets/7dd84bfd-f7dc-4647-957b-32a78e94190a)|![Screenshot 2024-12-04 153144](https://github.com/user-attachments/assets/e11e61c8-86be-4f18-8421-d778749caad8)|![Screenshot 2024-12-04 165226](https://github.com/user-attachments/assets/02799d3d-f868-439a-80a4-48b527759340)
 
-Using the "Count" and "Timestamp" fields, I created a easy to read tabel that shows the count of events ofver time.
+Using the "Count" and "Timestamp" fields, I created a easy to read tabel that shows the count of events ofver time. In the future I will add more set of agents to flesh out more advanced data tables.
 
 <br/>
 <br/>
 
 ## Detection Alerts w/Integrated Push Emails
 ![Screenshot 2024-12-04 165311](https://github.com/user-attachments/assets/24dc414a-cd7d-4ec7-aaef-f4a7ab679a6c)
-### Define rules for nmap/sudo alerts
+### Basic set up for scanning
 ![Screenshot 2024-12-04 165643](https://github.com/user-attachments/assets/62cc810b-4846-4539-a0ca-c3d6b973fc04)
+Creating new rules and defining those rules with a custom query. I set the conditions to detect nmap scan evenrts and also sudo elevated privilege events. I then set the action when triggered to send a push notification via email.
+(Can also be intergrated with Jira, Slack meessages or custom webhooks)
+ 
 
 | Sudo CMD Telemetry| Log Event for Sudo CMD| Push Email Notification|
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
