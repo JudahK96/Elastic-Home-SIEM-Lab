@@ -47,3 +47,22 @@ Specified search to only show nmap events.
 |![Screenshot 2024-12-04 143412](https://github.com/user-attachments/assets/7dd84bfd-f7dc-4647-957b-32a78e94190a)|![Screenshot 2024-12-04 153144](https://github.com/user-attachments/assets/e11e61c8-86be-4f18-8421-d778749caad8)|![Screenshot 2024-12-04 165226](https://github.com/user-attachments/assets/02799d3d-f868-439a-80a4-48b527759340)
 
 Using the "Count" and "Timestamp" fields, I created a easy to read tabel that shows the count of events ofver time.
+
+<br/>
+<br/>
+
+## Detection Alerts w/Integrated Push Emails
+![Screenshot 2024-12-04 165311](https://github.com/user-attachments/assets/24dc414a-cd7d-4ec7-aaef-f4a7ab679a6c)
+
+| Sudo CMD Telemetry| Log Event for Sudo CMD| Push Email Notification|
+|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+|![Screenshot 2024-12-04 184054](https://github.com/user-attachments/assets/90f93a36-bd37-4d1b-922d-ef62343d1fca)|![Screenshot 2024-12-04 184235](https://github.com/user-attachments/assets/bb62f631-f190-4486-8543-8b3e1c5c22e7)|![Screenshot 2024-12-04 165643](https://github.com/user-attachments/assets/cf314aa1-6258-46dc-a4dd-1182e8796b95)|
+
+![Screenshot 2024-12-04 184321](https://github.com/user-attachments/assets/583cf8a3-9681-4791-ac36-e035ad84ed85)
+
+
+
+
+
+
+
