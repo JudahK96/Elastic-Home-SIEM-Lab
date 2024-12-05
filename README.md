@@ -53,6 +53,7 @@ Using the "Count" and "Timestamp" fields, I created a easy to read tabel that sh
 
 ## Detection Alerts w/Integrated Push Emails
 ![Screenshot 2024-12-04 165311](https://github.com/user-attachments/assets/24dc414a-cd7d-4ec7-aaef-f4a7ab679a6c)
+![Screenshot 2024-12-04 165643](https://github.com/user-attachments/assets/62cc810b-4846-4539-a0ca-c3d6b973fc04)
 
 | Sudo CMD Telemetry| Log Event for Sudo CMD| Push Email Notification|
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
