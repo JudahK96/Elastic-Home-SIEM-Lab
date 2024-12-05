@@ -22,3 +22,13 @@ The scope of this project was to create a home lab for Elastic Stack Security In
 | ![Screenshot 2024-12-04 155838](https://github.com/user-attachments/assets/1ae13e05-2914-4592-a99b-53e527ef561f)|![Screenshot 2024-12-04 155900](https://github.com/user-attachments/assets/431efe44-10e1-42ba-9b69-1ae64ea8dcdc)|
 
 Recieved a positive response when confirming installation with (sudo systemctl status elastic-agent.service).
+
+## Generating security events through KaliVM
+![Screenshot 2024-12-04 134839](https://github.com/user-attachments/assets/61f51b9e-f5eb-4ecc-9a1c-52077c771989)
+
+| All Elastic Logs| Refinded Search for nmaps|
+|-----------------------------------------------|----------------------------|
+|![Screenshot 2024-12-04 164402](https://github.com/user-attachments/assets/d4e4d969-18d1-47d6-bb12-ebceecfc9bea)|![Screenshot 2024-12-04 164529](https://github.com/user-attachments/assets/d2bd3a30-cd4b-46e0-81ce-896099651bef)
+
+
+
