@@ -20,4 +20,5 @@ The scope of this project was to create a home lab for Elastic Stack Security In
 | Agent Install| Confirming Install |
 |-----------------------------------------------|----------------------------|
 | ![Screenshot 2024-12-04 155838](https://github.com/user-attachments/assets/1ae13e05-2914-4592-a99b-53e527ef561f)|![Screenshot 2024-12-04 155900](https://github.com/user-attachments/assets/431efe44-10e1-42ba-9b69-1ae64ea8dcdc)|
-Recieved a positive response when confirming instalation with (sudo systemctl status elastic-agent.service).
+
+Recieved a positive response when confirming installation with (sudo systemctl status elastic-agent.service).
