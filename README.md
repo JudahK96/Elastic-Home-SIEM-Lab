@@ -16,12 +16,18 @@ The scope of this project was to create a home lab for Elastic Stack Security In
 - Virtualbox/ KaliLinux2024
 - Elastic/ Kibana
 
+<br/>
+<br/>
+
 ## Adding Agent to KaliVM
 | Agent Install| Confirming Install |
 |-----------------------------------------------|----------------------------|
 | ![Screenshot 2024-12-04 155838](https://github.com/user-attachments/assets/1ae13e05-2914-4592-a99b-53e527ef561f)|![Screenshot 2024-12-04 155900](https://github.com/user-attachments/assets/431efe44-10e1-42ba-9b69-1ae64ea8dcdc)|
 
 Recieved a positive response when confirming installation with (sudo systemctl status elastic-agent.service).
+
+<br/>
+<br/>
 
 ## Generating security events through KaliVM
 ![Screenshot 2024-12-04 134839](https://github.com/user-attachments/assets/61f51b9e-f5eb-4ecc-9a1c-52077c771989)
@@ -32,8 +38,12 @@ Recieved a positive response when confirming installation with (sudo systemctl s
 
 Specified search to only show nmap events.
 
+<br/>
+<br/>
+
 ## Visualizing Events with a Dashboard
 |Table 1|Table 2|Table 3|
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 |![Screenshot 2024-12-04 143412](https://github.com/user-attachments/assets/7dd84bfd-f7dc-4647-957b-32a78e94190a)|![Screenshot 2024-12-04 153144](https://github.com/user-attachments/assets/e11e61c8-86be-4f18-8421-d778749caad8)|![Screenshot 2024-12-04 165226](https://github.com/user-attachments/assets/02799d3d-f868-439a-80a4-48b527759340)
 
+Using the "Count" and "Timestamp" fields, I created a easy to read tabel that shows the count of events ofver time.
