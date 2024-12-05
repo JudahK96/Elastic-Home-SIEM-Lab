@@ -9,7 +9,7 @@ The scope of this project was to create a home lab for Elastic Stack Security In
 - Generate security events on the Kali VM
 - Query to find security events in the Elastic SIEm
 - Create a visualization dashboard for security events
-- Create aletrs for security events and forward alert via email
+- Create alerts for security events and forward alert via email
 
 ### Tools Used
 
