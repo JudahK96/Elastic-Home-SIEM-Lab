@@ -5,7 +5,7 @@ The scope of this project was to create a home lab for Elastic Stack Security In
 
 ### Skills Learned
 
-- Configuring Elastic Agent on the Linux VM to collect the loogs and forward to the SIEM
+- Configuring Elastic Agent on the Linux VM to collect the logs and forward to the SIEM
 - Generate security events on the Kali VM
 - Query to find security events in the Elastic SIEm
 - Create a visualization dashboard for security events
